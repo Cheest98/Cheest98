@@ -1,7 +1,7 @@
-### Hi there 👋
 
 
 👋 **Hi there, I'm Łukasz!**
+
 🎓 **About Me**: I'm a Systems Engineer with a passion for programming and technology. I hold both Bachelor's and Master's degrees in Systems Engineering. My academic journey was marked by numerous projects ranging from Python applications, such as a heterogeneous vehicle routing problem with a graphical UI, to developing web applications.
 
 👨‍💻 **Engineering Projects**: My Bachelor's thesis focused on creating a web application for managing student groups, featuring functionalities like grouping users, adding posts , assigning tasks, creating shopping lists, and integrating a shared group calendar. This project utilized Django and React, showcasing my ability to blend backend and frontend technologies seamlessly.
